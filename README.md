@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I am a Web Developer
+I am a Full-Stack Developer
 
 * 🌍  I'm based in Boston, MA
 * 🖥️  See my portfolio at [Portfolio](http://tyler-allen.com)
