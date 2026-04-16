@@ -1,6 +1,6 @@
 # Hi, I'm Tyler Allen
 
-### Senior Full-Stack Software Engineer
+### Full-Stack Software Engineer
 
 I am a Full-Stack Developer with a proven track record of modernizing and scaling complex web platforms. As a high-level technical generalist, I build everything from secure, user-centric interfaces to robust back-end architecture. I specialize in solving difficult technical challenges and delivering reliable, high-performance solutions across the entire stack.
 
