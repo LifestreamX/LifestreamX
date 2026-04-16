@@ -1,8 +1,8 @@
 # Hi, I'm Tyler Allen
 
-### Full-Stack Software Engineer
+### Senior Full-Stack Software Engineer
 
-I am a Full-Stack Web Developer with a proven track record of modernizing healthcare and e-commerce platforms. As a technical generalist, I build everything from secure, user-centric interfaces to scalable back-end architecture. I specialize in jumping into complex problems and delivering reliable, high-performance solutions end-to-end.
+I am a Full-Stack Developer with a proven track record of modernizing and scaling complex web platforms. As a high-level technical generalist, I build everything from secure, user-centric interfaces to robust back-end architecture. I specialize in solving difficult technical challenges and delivering reliable, high-performance solutions across the entire stack.
 
 - 🌍 Based in Boston, MA
 - 🖥️ View my portfolio: [tyler-allen.com](http://tyler-allen.com/)
