@@ -2,7 +2,7 @@
 
 ### Full-Stack Software Engineer
 
-[cite_start]I am a Full-Stack Web Developer with a proven track record of modernizing healthcare and e-commerce platforms[cite: 3]. [cite_start]As a technical generalist, I build everything from secure, user-centric interfaces to scalable back-end architecture. I specialize in jumping into complex problems and delivering reliable, high-performance solutions end-to-end.
+I am a Full-Stack Web Developer with a proven track record of modernizing healthcare and e-commerce platforms. As a technical generalist, I build everything from secure, user-centric interfaces to scalable back-end architecture. I specialize in jumping into complex problems and delivering reliable, high-performance solutions end-to-end.
 
 - 🌍 Based in Boston, MA
 - 🖥️ View my portfolio: [tyler-allen.com](http://tyler-allen.com/)
